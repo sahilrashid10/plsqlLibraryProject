@@ -70,7 +70,3 @@ This project is a comprehensive Library Management System implemented in PL/SQL.
 1. Clone this repository.
 2. Open `Library_managment_PlSql.sql` in your SQL editor.
 3. Execute the script to set up the project.
-
-## License
-
-This project is for educational purposes.
